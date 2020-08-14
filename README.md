@@ -12,7 +12,7 @@ cd my-app
 npm start
 ```
 
-## Instal Bootstrap  File
+## Install Bootstrap  File using npm
 
 ```React js
 npm install react-bootstrap bootstrap
