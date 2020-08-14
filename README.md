@@ -16,4 +16,11 @@ npm start
 
 ```React js
 npm install react-bootstrap bootstrap
+
+```
+
+## Install react-router using npm
+
+```react-router
+npm i react-router-dom --save
 ```
